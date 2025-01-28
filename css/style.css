@@ -1,0 +1,12 @@
+body {
+    background-color: #fff; /* Change the background to red for visibility */
+}
+
+#gameContainer {
+    width: 100%;
+    height: 100%;
+    max-width: 480px;
+    max-height: 800px;
+    background-color: black; /* Playable area */
+    margin: auto;
+}
